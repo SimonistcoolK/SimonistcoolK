@@ -16,11 +16,13 @@ Working on personal projects and learning new things. Open to small collaboratio
 
 ## Skills
 - HTML
+- CSS
 - Python
 - Batch
 
-## Featured project
+## Featured projects
 - [Python-Webhook-transmitter](https://github.com/SimonistcoolK/Python-Webhook-transmitter) — a small Python project for transmitting/forwarding webhooks (see the repo for usage and examples).
+-  [MediaVault](https://github.com/SimonistcoolK/MediaVault) — a small open souce steaming platform.
 
 ## Contact & socials
 - Socials (text only, no calls): https://guns.lol/simonk
