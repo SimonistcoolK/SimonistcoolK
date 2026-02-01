@@ -32,8 +32,9 @@ Please note: on my socials only text messages — I don't take calls.
 Austria
 
 ##### Random Stats
-![simonk](https://github-readme-stats.vercel.app/api?username=simonistcoolk&show_icons=true&theme=tokyonight&hide=[%22issues%22])
+![SIMONK](https://github-readme-stats.vercel.app/api?username=simonistcoolk&show_icons=true&theme=tokyonight&hide=[%22issues%22])
 ![SIMONK](https://github-readme-stats.vercel.app/api/top-langs?username=simonistcoolk&show_icons=true&theme=tokyonight&layout=compact)
+(Might NOT work)
 ---
 
 <!---
