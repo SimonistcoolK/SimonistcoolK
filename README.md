@@ -35,10 +35,11 @@ Austria
 
 ##### Random Stats
 ![SIMONK](https://github-readme-stats.vercel.app/api?username=simonistcoolk&show_icons=true&theme=tokyonight&hide=[%22issues%22])
+
 ![SIMONK](https://github-readme-stats.vercel.app/api/top-langs?username=simonistcoolk&show_icons=true&theme=tokyonight&layout=compact)
+
 (Might NOT work)
 ---
-
 <!---
 SimonistcoolK/SimonistcoolK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
